@@ -1,0 +1,38 @@
+/* add your CSS here */
+span {
+  font-weight: bold;
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.wrapper {
+  margin-right: 250px;
+  margin-left: 250px;
+  border-right-width: 2px;
+  border-left-width: 2px;
+  width: 330px;
+  max-width: 330px;
+  border: 1px solid #C0C0C0;
+  box-shadow: 5px 5px 5px #C0C0C0;
+}
+
+.info {
+  border: 1px solid #C0C0C0;
+  padding: 10px;
+  margin: 0px 15px 15px 15px;
+}
+
+h3, img {
+  margin: 15px;
+}
+
+h3 {
+  padding-top: 10px;
+}
